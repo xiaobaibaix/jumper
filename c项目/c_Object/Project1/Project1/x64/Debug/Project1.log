@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  测试工龄小程序.cpp
+E:\c_Object\Project1\Project1\测试工龄小程序.cpp(7,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\c_Object\Project1\Project1\测试工龄小程序.cpp(7,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\c_Object\Project1\Project1\测试工龄小程序.cpp(7,13): message : 缺失的可变参数 2 为格式字符串“%c”所需
+E:\c_Object\Project1\Project1\测试工龄小程序.cpp(7,13): message : 此参数用作缓冲区大小
+  Project1.vcxproj -> E:\c_Object\Project1\x64\Debug\TextDay01.exe

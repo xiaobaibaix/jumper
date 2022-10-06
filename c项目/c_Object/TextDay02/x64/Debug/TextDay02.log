@@ -1,0 +1,5 @@
+﻿  数组传递.cpp
+E:\c_Object\TextDay02\数组传递.cpp(13,9): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\c_Object\TextDay02\数组传递.cpp(20,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+E:\c_Object\TextDay02\数组传递.cpp(20,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+  TextDay02.vcxproj -> E:\c_Object\TextDay02\x64\Debug\TextDay02.exe
